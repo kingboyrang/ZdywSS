@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7E4438E3-703B-4247-A2E5-41365EC84E79</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZdywSS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4e0d55d2-17fe-11e2-891a-a7adc1fbc50a++2215</key>
+		<string>http://172.16.10.10/svn/NetDevelop_svn/phone_sales/zd_dev_svn/client_ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>client_ios/Trunk/Zdyw/ZdywSS/ZdywSS.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4e0d55d2-17fe-11e2-891a-a7adc1fbc50a++2215</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>4e0d55d2-17fe-11e2-891a-a7adc1fbc50a++2215</key>
+		<string>http://172.16.10.10/svn/NetDevelop_svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://172.16.10.10/svn/NetDevelop_svn/phone_sales/zd_dev_svn/client_ios/client_ios/Trunk/Zdyw/ZdywSS/ZdywSS.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4e0d55d2-17fe-11e2-891a-a7adc1fbc50a++2215</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4e0d55d2-17fe-11e2-891a-a7adc1fbc50a++2215</string>
+			<key>IDESourceControlWCCName</key>
+			<string>client_ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

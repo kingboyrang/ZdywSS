@@ -1,0 +1,40 @@
+//
+//  ZdywApp-Prefix.pch
+//  ZdywMini
+//
+//  Created by mini1 on 14-5-28.
+//  Copyright (c) 2014年 Guoling. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "ZdywConfig.h"
+#import "ZdywColorFont.h"
+#import "ZdywGlobal.h"
+#import "ZdywDataKeyDefine.h"
+#import "ZdywUtils.h"
+#import "ZdywBaseViewController.h"
+#import "ZdywAppDelegate.h"
+#import "ZdywServiceManager.h"
+#import "SVProgressHUD.h"
+#import "ZdywCommonFun.h"
+#import "ZdywUtilHeader.h"
+#import "NSString+Additions.h"
+#import "ZdywUtilHeader.h"
+
+#ifndef __OPTIMIZE__
+#define NSLog(...) NSLog(__VA_ARGS__)
+#else
+#define NSLog(...) {}
+#endif
+
+#endif
